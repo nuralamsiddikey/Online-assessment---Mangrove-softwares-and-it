@@ -1,0 +1,19 @@
+.wrapper{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+  
+    padding: 10px 0;
+    flex-wrap: wrap;
+}
+.input{
+    height: 40px;
+    width: 280px;
+    padding: 0 10px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+.input:focus{
+     outline: none;
+}

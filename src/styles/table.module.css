@@ -1,0 +1,16 @@
+.container{
+    margin-top: 40px;
+}
+.wrapper{
+    width: 80%;
+    margin: auto;
+    overflow-x: auto;
+    box-shadow: 8px 8px 8px 6px rgb(225, 221, 221);
+    padding: 30px;
+}
+.table{
+    width: 100%;
+    border: 1px solid rgb(248, 245, 245);
+    border-collapse: collapse;
+   
+} 

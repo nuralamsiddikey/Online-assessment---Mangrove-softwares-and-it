@@ -1,0 +1,10 @@
+.td{
+    border: 1px solid lightgray;
+    padding: 10px 5px;
+    font-size: 300;
+    color: rgb(71, 69, 69);
+}
+.tr:hover{
+    background-color: rgb(230, 228, 228);
+    transition: 0.3s;
+}
